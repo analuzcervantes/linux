@@ -83,4 +83,4 @@ Interpretation
 ==============
 
 See the https://www.kernel.org/doc/html/latest/process/code-of-conduct-interpretation.html#code-of-conduct-interpretation document for how the Linux
-kernel community will be interpreting this document.
+document for how the Linux kernel community will be interpreting this document.
